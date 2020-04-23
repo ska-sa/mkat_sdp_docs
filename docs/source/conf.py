@@ -20,9 +20,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'SSItest'
-copyright = '2020, Lorita'
-author = 'Lorita'
+project = 'Meerkat SDP User Documentation'
+copyright = '2020, South African Radio Astronomy Observatory'
+author = ''
 
 # The short X.Y version
 version = ''
@@ -109,7 +109,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'SSItestdoc'
+htmlhelp_basename = 'mkatsdpdocs'
 
 
 # -- Options for LaTeX output ------------------------------------------------

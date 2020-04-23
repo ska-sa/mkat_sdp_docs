@@ -1,18 +1,18 @@
-.. SSItest documentation master file, created by
-   sphinx-quickstart on Mon Mar 30 23:54:53 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-
-
-Welcome to the User Documentation for Meerkat SDP
+Welcome to Meerkat SDP User Documentation
 =================================================
+
+Introduction to Meerkat SDP
+===========================
+
+The Meerkat Science Data Processor system is responsible fot the data ingest from the correlators to the science archive for the mid-frequency MeerKAT radio telescope. The MeerKAT+ is an extension to the existing mid-frequency MeerKAT telescope. 
+
+This space provides an overall view on the User Dcoumentation for various Modules, Libraries and Simulators & Emulators developed for the Meerkat SDP. 
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
 
-   intro
    softwaremodules
    lib
    simulatoremulator
