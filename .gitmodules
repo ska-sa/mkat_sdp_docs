@@ -1,0 +1,18 @@
+[submodule "docs/source/katdal"]
+	path = docs/source/katdal
+	url = https://github.com/ska-sa/katdal.git
+[submodule "docs/source/katpoint"]
+	path = docs/source/katpoint
+	url = https://github.com/ska-sa/katpoint.git
+[submodule "docs/source/spead2"]
+	path = docs/source/spead2
+	url = https://github.com/ska-sa/spead2.git
+[submodule "docs/source/katsdptelstate"]
+	path = docs/source/katsdptelstate
+	url = https://github.com/ska-sa/katsdptelstate.git
+[submodule "docs/source/katcbfsim"]
+	path = docs/source/katcbfsim
+	url = https://github.com/ska-sa/katcbfsim.git
+[submodule "docs/source/katsdpimager"]
+	path = docs/source/katsdpimager
+	url = https://github.com/ska-sa/katsdpimager.git
